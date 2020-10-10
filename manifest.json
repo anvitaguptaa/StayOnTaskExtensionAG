@@ -6,7 +6,13 @@
   "icons": {
        "16": "studyimage.png",
        "48": "studyimage.png",
-      "128": "studyimage.png"
+       "128": "studyimage.png"
+    },
+
+  "browser_action": {
+       "default_icon": {
+       "128": "studyimage.png"
+      }
     },
 
   "content_scripts": [
